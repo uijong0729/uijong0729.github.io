@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Euijong Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "well.. a web deveolper"
+  location         : "Tokyo, japan"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
